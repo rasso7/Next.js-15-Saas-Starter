@@ -1,5 +1,5 @@
 import React from "react";
-import ArrowRight from "@/assets/arrow-right.svg";
+
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
