@@ -70,7 +70,7 @@ const page = () => {
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <Image
               alt="App screenshot"
-              src="https://i.imgur.com/Cdl0pNj.jpg"
+              src="https://i.imgur.com/TpJHngI.png"
               width={2432}
               height={1442}
               className="mb-[-0%] rounded-xl shadow-2xl ring-1 ring-gray-900/10"
